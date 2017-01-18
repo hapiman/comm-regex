@@ -1,0 +1,14 @@
+{
+  "name": "comm-regex",
+  "version": "0.1.1",
+  "description": "some common regular expression.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "jian.peng",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0"
+  }
+}
