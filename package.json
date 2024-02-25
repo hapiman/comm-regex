@@ -6,6 +6,10 @@
   "scripts": {
     "test": "mocha"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hapiman/comm-regex"
+  },
   "author": "jian.peng",
   "license": "ISC",
   "dependencies": {
